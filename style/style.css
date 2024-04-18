@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+
+a.navbar-brand {
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+ul.navbar-nav {
+    font-family: "Yellowtail", cursive;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+#font {
+    font-family: "Yellowtail", cursive;
+}
+
+h3 {
+    font-family: "Yellowtail", cursive;
+}
+
+.footer {
+    padding: 2rem;
+    margin: 0;
+}
+
+
+form {
+    max-width: 420px;
+    margin: 50px auto;
+}
+
+.new-input {
+    color: black;
+    font-size: 1rem;
+    border-radius: 5px;
+    line-height: 22px;
+    border: 2px solid #CC6666;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+textarea {
+    height: 150px;
+    line-height: 150%;
+}
+
+#btn {
+    width: 100%;
+    background: #CC6666;
+    border-radius: 5px;
+    border: 0;
+    cursor: pointer;
+    color: white;
+    font-size: 24px;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    font-family: sans-serif;
+}
+
+#btn:hover {
+    background-color: darkred;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    color: #d54a4a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
